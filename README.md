@@ -2,7 +2,7 @@
 netscan
 
 
-# Compile (should produce ZERO warnings)
+# Compile 
 ```bash
 gcc -Wall -Wextra -O2 -pthread -o netscan netscan.c
 ```
